@@ -7,3 +7,10 @@ My name is Hung Nguyen, I am currently a student studying in University of Massa
 ## Some languages I used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abcbob)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hungnguyenquang0101/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:hungnq0104@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+</p>
